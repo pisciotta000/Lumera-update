@@ -1,5 +1,12 @@
 {
   "version": "1.1",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/1.0.3/Lumera.Present.exe",
-  "notas": "📖 Nuevo gestor de Biblias.\n🖼️ Memoria de diseños y organizador de fondos.\n🔴 Nuevo indicador gigante 'EN VIVO'.\n⚡ Tecla ESC inteligente y salto limpio entre Títulos y Canciones."
+  "notas":   "novedades": [
+    "🌐 Conexión Total (Auto-Nube): Salto automático a 4G si falla el Wi-Fi.",
+    "🖥️ Gestor de PCs: Guardá, renombrá y conectate a varias computadoras rápido.",
+    "📁 Transferencias Silenciosas: Enviá archivos a la PC sin interrumpir la proyección.",
+    "⭐ Pestaña Favoritos: Proyectá tus fondos favoritos directamente desde el celular.",
+    "📝 Edición Remota: Corregí letras y versículos en vivo desde tu dispositivo móvil.",
+    "🎨 Mejoras Visuales: Vista previa adaptable al proyector real y botón de mayúsculas (Aa)."
+  ]
 }
