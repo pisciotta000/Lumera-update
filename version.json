@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "🛠️ Guardado de canciones más robusto en redes inestables: ahora se sube en lotes chicos y con más reintentos. Si la conexión se corta, retoma sin empezar de cero. ✨ Mejoras internas."
+  "notas": "🎵 Ahora podés reordenar la playlist de canciones a tu gusto: arrastrá cada canción desde el tirador (≡). El nuevo orden se guarda solo. ✨ Mejoras internas."
 }
