@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "url": "https://github.com/pisciotta000/Lumera-update/releases/download/actualizador/Lumera_Present_Setup.exe",
-  "notas": "🛠️ Guardar/Cargar en la nube más resistente: ahora reintenta solo ante cortes de red y un parpadeo no aborta todo. Si algo falla, reintentá y sigue desde donde quedó. ✨ Mejoras internas."
+  "notas": "🛠️ Guardado de canciones más robusto en redes inestables: ahora se sube en lotes chicos y con más reintentos. Si la conexión se corta, retoma sin empezar de cero. ✨ Mejoras internas."
 }
